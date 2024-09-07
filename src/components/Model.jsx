@@ -2,7 +2,7 @@ import { useGSAP } from "@gsap/react"
 import gsap from "gsap";
 import ModelView from "../components/ModelView";
 import { useEffect, useRef, useState } from "react";
-import { yellowImg } from "../utils";
+import { yellowImg } from "../utils/Index";
 
 import * as THREE from 'three';
 import { Canvas } from "@react-three/fiber";
